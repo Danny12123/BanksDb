@@ -1,5 +1,6 @@
 const BankModel = require("./Model");
 //controllers
+
 // const listBanksController = (req, res) => {
 //   const banks = BankModel.all();
 //   res.json({ data: banks });
